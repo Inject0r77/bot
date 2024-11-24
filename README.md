@@ -15,7 +15,7 @@
 The application does not support the English language at the moment; if there are future updates, translation into any language will most likely be added.
 
 <h1>Disclaimer</h1>
-<p>Last updated: October 31, 2024</p>
+<p>Last updated: November 24, 2024</p>
 <h2>Interpretation and Definitions</h2>
 <h3>Interpretation</h3>
 <p>The words of which the initial letter is capitalized have meanings defined under the following conditions.

@@ -1,0 +1,7 @@
+{
+  "join": "Joined channel {channel}",
+  "leave": "Disconnected from the channel.",
+  "play": "Loading track, please wait...",
+  "pause": "Playback paused.",
+  "language_switched": "Language switched to English."
+}
